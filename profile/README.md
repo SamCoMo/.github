@@ -40,7 +40,7 @@
 
 ## 📐 아키텍처
 
-![samcomo-architecture](https://github.com/praveenpuglia/tailwind-breeze/assets/128203563/d913c8b4-db33-4a3d-af0e-7b8d7ebfe259)
+![samcomo_architecture](https://github.com/SamCoMo/.github/assets/128203563/ec85d22d-35aa-4f71-b527-67ccd2b08467)
 
 ---
 
