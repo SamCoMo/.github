@@ -24,7 +24,7 @@
 
 ## 개발 환경
 
-<img src="https://github.com/SamCoMo/.github/assets/128203563/b021a40f-51dd-4fee-beea-0e1759a3700b">
+<img src="https://github.com/SamCoMo/.github/assets/128203563/23eed74d-0046-4dc8-b93a-42ea5f67719c">
 
 
 
