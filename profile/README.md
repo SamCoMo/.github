@@ -21,25 +21,17 @@
 - 발견 즉시 앱을 통해 목격 위치 전송!
 - 목격자들의 실시간 지도 핀을 통해 반려동물이 머무르는 위치 정보 확보!
 
----
 
 ## 개발 환경
 
-- SpringBoot 3.2 (Java 17)
-- Spring Security, JWT, OAuth2
-- JPA
-- S3, MariaDB
-- WebSocket
-- Stomp
-- Redis
-- FCM
-- AWS EC2, Docker, Github Actions
+<img src="https://github.com/SamCoMo/.github/assets/128203563/b021a40f-51dd-4fee-beea-0e1759a3700b">
+
+
 
 ## 📐 아키텍처
 
 <img src="https://github.com/SamCoMo/DBZ-Backend/assets/128203563/90d670b3-007e-4a52-b12d-1bdfc8ca6d02">
 
----
 
 ## 기능
 
@@ -76,10 +68,6 @@
 #### 글 삭제여부 알림 서비스
 
 - 특정 시간이 지난 실종신고 게시글
-
----
-
-▶️ [Trouble Shooting](https://goo99.notion.site/55c157561a2a42d1990a9f67861e0e62?pvs=4)
 
 ## 🌈 Teams
 
