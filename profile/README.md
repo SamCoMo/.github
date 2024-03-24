@@ -30,7 +30,7 @@
 
 ## 📐 아키텍처
 
-<img src="https://github.com/SamCoMo/DBZ-Backend/assets/128203563/90d670b3-007e-4a52-b12d-1bdfc8ca6d02">
+<img src="https://github.com/SamCoMo/.github/assets/128203563/a378706e-7525-4b59-a53c-43b61832a495">
 
 
 ## 기능
